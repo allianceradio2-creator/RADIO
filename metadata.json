@@ -1,0 +1,7 @@
+{
+  "name": "Alliance Radio & TV ok",
+  "description": "Application officielle de Alliance Radio et TV. Écoutez le direct, regardez la télé et restez connectés avec nous.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
